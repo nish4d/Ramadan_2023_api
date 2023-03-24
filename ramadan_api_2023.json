@@ -1,6 +1,6 @@
 [
    {
-    "DhakaDivision": {
+    "dhakadivision": {
       "dhaka": [
                   {
                     "01": "02",
@@ -3252,7 +3252,7 @@
       }
     ]
   },
-  "RangpurDivision":{
+  "rangpurdivision":{
     "dinajpur":[
       {
         "01": "02",
@@ -6256,7 +6256,7 @@
       }
     ]
   },
-  "RajshahiDivision":{
+  "rajshahidivision":{
     "bogura":[
       {
         "01": "02",
@@ -8258,7 +8258,7 @@
       }
     ]
   },
-  "MymensinghDivision":{
+  "mymensinghdivision":{
     "jamalpur":[
       {
         "01": "02",
@@ -9260,7 +9260,7 @@
       }
     ]
   },
-  "KhulnaDivision":{
+  "khulnadivision":{
     "bagerhat":[
       {
         "01": "02",
@@ -11762,7 +11762,7 @@
       }
     ]
   },
-  "ChattogramDivision":{
+  "chattogramdivision":{
     "bandarban":[
       {
         "01": "02",
@@ -14514,7 +14514,7 @@
       }
     ]
   },
-  "BarisalDivision":{
+  "barisaldivision":{
     "barguna":[
       {
         "01": "02",
